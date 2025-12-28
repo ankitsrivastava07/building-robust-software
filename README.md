@@ -1,3 +1,1 @@
-# common-preparation
-
-Most Common Interview Question collection
+By using this concept we can create software robust, expandability/scalability system.
